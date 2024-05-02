@@ -1,6 +1,6 @@
 ## Oi, sou o Jeziel!
 
-:books: Sou aluno de Engenharia de Software na Universidade de Vassouras!
+Sou aluno de Engenharia de Software na Universidade de Vassouras!
 
 ## Sobre mim
 

@@ -4,7 +4,7 @@ Sou aluno de Engenharia de Software na Universidade de Vassouras!
 
 ## Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jezielmonteiro)](https://github.com/jezielmonteiro)
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jezielmonteiro)](https://github.com/jezielmonteiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jezielmonteiro/)](https://www.linkedin.com/in/jezielmonteiro/)
 
 ## Linguagens:

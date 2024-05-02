@@ -1,3 +1,13 @@
-Oi, sou o Jeziel!
-- 📆 Tenho 20 anos;
-- 📌 Sou aluno de Engenharia de Software na Universidade de Vassouras;
+## Oi, sou o Jeziel!
+
+:books: Sou aluno de Engenharia de Software na Universidade de Vassouras!
+
+## Sobre mim
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jezielmonteiro)](https://github.com/jezielmonteiro)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jezielmonteiro/)](https://www.linkedin.com/in/jezielmonteiro/)
+
+## Linguagens
+
+[![jezielmonteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=jezielmonteiro)](https://github.com/jezielmonteiro/github-readme-stats)

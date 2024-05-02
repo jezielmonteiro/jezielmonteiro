@@ -12,4 +12,4 @@
 
 [![jezielmonteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=jezielmonteiro&show_icons=true&theme=transparent)](https://github.com/jezielmonteiro/github-readme-stats)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jezielmonteiro&layout=compact))](https://github.com/jezielmonteiro/github-readme-stats)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jezielmonteiro&layout=compact&theme=transparent))](https://github.com/jezielmonteiro/github-readme-stats)

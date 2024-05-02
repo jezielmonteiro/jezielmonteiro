@@ -10,4 +10,4 @@
 
 ## Linguagens
 
-[![jezielmonteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=jezielmonteiro)](https://github.com/jezielmonteiro/github-readme-stats)
+[![jezielmonteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=jezielmonteiro&show_icons=true&theme=transparent)](https://github.com/jezielmonteiro/github-readme-stats)

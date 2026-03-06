@@ -9,6 +9,6 @@ Tenho 22 anos e sou aluno de Engenharia de Software na Universidade de Vassouras
 
 ## Linguagens:
 
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jezielmonteiro&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=jezielmonteiro&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jezielmonteiro&layout=compact&theme=transparent)](https://github.com/jezielmonteiro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jezielmonteiro&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)

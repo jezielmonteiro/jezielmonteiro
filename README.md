@@ -1,6 +1,6 @@
 ## Oi, sou o Jeziel!
 
-Tenho 22 anos e sou aluno de Engenharia de Software na Universidade de Vassouras!
+Tenho 23 anos e sou aluno de Engenharia de Software na Universidade de Vassouras!
 
 ## Sobre mim
 
